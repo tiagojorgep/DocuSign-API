@@ -17,4 +17,4 @@ Enable API
 10) At profile menu, copy the "Account#" and past in a notepad
 11) Grant consent to use API by accessing the custon URL:<br />
     https://account-d.docusign.com/oauth/auth?response_type=token&scope=signature%20impersonation&client_id=INTEGRATION KEY&redirect_uri=https://www.docusign.com<br />
-    NOTE: Change the INTEGRATION KEY to you integration key
+    NOTE: Change the INTEGRATION KEY to your integration key
