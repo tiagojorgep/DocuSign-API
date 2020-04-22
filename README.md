@@ -1,5 +1,6 @@
 # DocuSign-API
-Hints to use DocuSign APIs / SDKs
+Hints to use DocuSign APIs / SDKs<br />
+See complete documentation at: https://developers.docusign.com/esign-rest-api/guides/authentication/oauth2-jsonwebtoken
 
 Enable API
 -------------
